@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <Windows.h>
-#include "methods.h"
+#include "methods.hpp"
 
 int main() {
 	game_setup();
